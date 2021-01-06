@@ -946,9 +946,11 @@ void Hi(){
   }
 
 void loop() { 
+ /*Uncomment the functions to see the value.  */
  
  //All_UPPER_CASE_LETTERS();
  //ALL_LOWER_CASE_LETTERS();
  //NUMBERS();
+ 
  Hi();
 }
